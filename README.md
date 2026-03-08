@@ -94,7 +94,7 @@ I'm always up for talking security, AI, trail recommendations, or climbing route
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animesh-anand27)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:animesh.anand27391@gmail.com)
-📄 [Resume](https://github.com/animeshanand27391-bit/resume/blob/main/Animesh_Anand_Resume.pdf)
+📄 [[Resume](https://github.com/animeshanand27391-bit/resume/blob/main/Animesh_Anand_Resume.pdf)](https://github.com/animeshanand27391-bit/Resume/blob/main/Animesh%20Anand%20resume-%203_8_2026.pdf)
 
 ---
 
